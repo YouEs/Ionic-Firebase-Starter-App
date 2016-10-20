@@ -24,4 +24,5 @@ Download de www directory to install it you should create a first a basic Ionic 
     
    
    For the tutorial please follow this link:
+   http://cookyourweb.com/ionic-y-firebase/
    
