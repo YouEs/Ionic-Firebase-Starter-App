@@ -5,6 +5,7 @@ Download de www directory to install it you should create a first a basic Ionic 
 
 1- First install ionic 
     npm install -g cordova ionic
+    
 
 2- Install your basic app with tabs
 
@@ -16,8 +17,10 @@ Download de www directory to install it you should create a first a basic Ionic 
 5- Run it
     cd myApp
     ionic platform add ios
+    ionic platform add android
     ionic build ios
     ionic emulate ios
+    ionic run android
     
    
    For the tutorial please follow this link:
